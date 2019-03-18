@@ -6,7 +6,12 @@
  * @notions Functions
  */
 
-// Your code :
+// Your code : 
+
+function id (argument) {
+    return argument;
+}
+
 
 //* Begin of tests
 const assert = require('assert')
